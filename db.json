@@ -10,7 +10,7 @@
     { "id": 7, "name": "Lookup 1 Row 7" },
     { "id": 8, "name": "Lookup 1 Row 8" },
     { "id": 9, "name": "Lookup 1 Row 9" }
-  ]
+  ],
   "lookup2": [
     { "id": 0, "name": "Lookup 2 Row 0" },
     { "id": 1, "name": "Lookup 2 Row 1" },
