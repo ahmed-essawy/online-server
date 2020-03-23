@@ -11,4 +11,16 @@
     { "id": 8, "name": "Lookup 1 Row 8" },
     { "id": 9, "name": "Lookup 1 Row 9" }
   ]
+  "lookup2": [
+    { "id": 0, "name": "Lookup 2 Row 0" },
+    { "id": 1, "name": "Lookup 2 Row 1" },
+    { "id": 2, "name": "Lookup 2 Row 2" },
+    { "id": 3, "name": "Lookup 2 Row 3" },
+    { "id": 4, "name": "Lookup 2 Row 4" },
+    { "id": 5, "name": "Lookup 2 Row 5" },
+    { "id": 6, "name": "Lookup 2 Row 6" },
+    { "id": 7, "name": "Lookup 2 Row 7" },
+    { "id": 8, "name": "Lookup 2 Row 8" },
+    { "id": 9, "name": "Lookup 2 Row 9" }
+  ]
 }
