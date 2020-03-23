@@ -1,14 +1,14 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  "lookup1": [
+    { "id": 0, "name": "Row 0" },
+    { "id": 1, "name": "Row 1" },
+    { "id": 2, "name": "Row 2" },
+    { "id": 3, "name": "Row 3" },
+    { "id": 4, "name": "Row 4" },
+    { "id": 5, "name": "Row 5" },
+    { "id": 6, "name": "Row 6" },
+    { "id": 7, "name": "Row 7" },
+    { "id": 8, "name": "Row 8" },
+    { "id": 9, "name": "Row 9" }
+  ]
 }
