@@ -22,5 +22,6 @@
     { "id": 7, "name": "Lookup 2 Row 7" },
     { "id": 8, "name": "Lookup 2 Row 8" },
     { "id": 9, "name": "Lookup 2 Row 9" }
-  ]
+  ],
+  "validations": ["required", "max:3"]
 }
